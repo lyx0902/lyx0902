@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Liu YuXiang,a student in NanJing University of Science and Technology. I want to study in Github and try to make some contributions to the community.
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev" id="MySkills">
