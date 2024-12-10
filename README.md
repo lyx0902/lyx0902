@@ -27,5 +27,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-**#My Stats**
+## My Stats
 [Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyx0902)
