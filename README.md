@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 -->
 
 ## My Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyx0902)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lyx0902)  ![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lyx0902&hide=ipynb,html&layout=compact)
