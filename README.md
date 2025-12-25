@@ -3,12 +3,12 @@ I am Liu YuXiang,a student in NanJing University of Science and Technology. I wa
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev" id="MySkills">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,js,git,linux,windows" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,linux,windows" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev" id="MySkills">
-    <img src="https://skillicons.dev/icons?i=clion,idea,androidstudio,qt,visualstudio,vscode,matlab,gradle,maven,mysql"/>
+    <img src="https://skillicons.dev/icons?i=clion,idea,androidstudio,vscode,git,gradle,maven,mysql"/>
   </a>
 </p>
 
