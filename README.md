@@ -28,10 +28,16 @@ Here are some ideas to get you started:
 -->
 
 ## My Stats
-![Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=lyx0902&hide=ipynb,html&layout=compact)
 
-![](https://github-profile-trophy.vercel.app/?username=lyx0902&theme=buefy&row=1)
+<div align="center">
+  <img src="https://github-stats-extended.vercel.app/api?username=lyx0902&show_icons=true&theme=buefy&hide_border=true&hide_title=true" alt="lyx0902's github stats"/>
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lyx0902&layout=compact&theme=buefy&hide=html,css&hide_border=true&hide_title=true" alt="Top languages"/>
+</div>
 
-### 💻 Activity Graph
+<div align="center">
+    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=lyx0902&layout=compact&theme=buefy&hide_border=true&hide_title=true" alt="WakaTime stats"/>
+</div>
 
-![lyx0902's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lyx0902&theme=vue&hide_border=true)
+<p align="center">
+    <img src="https://github-profile-repo.vercel.app/?username=lyx0902&theme=gruvbox&no-bg=true&no-frame=true" />
+</p>
