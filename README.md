@@ -34,10 +34,6 @@ Here are some ideas to get you started:
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lyx0902&layout=compact&theme=buefy&hide=html,css&hide_border=true&hide_title=true" alt="Top languages"/>
 </div>
 
-<div align="center">
-    <img src="https://github-stats-extended.vercel.app/api/wakatime?username=lyx0902&layout=compact&theme=buefy&hide_border=true&hide_title=true" alt="WakaTime stats"/>
-</div>
-
 <p align="center">
     <img src="https://github-profile-repo.vercel.app/?username=lyx0902&theme=gruvbox&no-bg=true&no-frame=true" />
 </p>
