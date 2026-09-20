@@ -1,31 +1,17 @@
 ## Hi there 👋
-I am Liu YuXiang,a student in NanJing University of Science and Technology. I want to study in Github and try to make some contributions to the community.
-## My Skills
-<p align="center">
-  <a href="https://skillicons.dev" id="MySkills">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,kotlin,html,css,linux,windows" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev" id="MySkills">
-    <img src="https://skillicons.dev/icons?i=clion,idea,androidstudio,vscode,git,gradle,maven,mysql"/>
-  </a>
-</p>
 
-<!--
-**lyx0902/lyx0902** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Liu YuXiang,an agent-learning junior.
 
-Here are some ideas to get you started:
+## Education Background
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2022-2026 Get BEng Degree in **NJUST(Nanjing University of Science and Technology)**,majoring in Computer Science and Technology.
+
+2026-2028 Studying in **BJTU(Beijing Jiaotong University)**,majoring in Software Engineering,chasing the Master degree of Engineering.
+
+- 🔭 I’m currently working on multi-agent working and agent workflows development.
+- 🌱 I’m currently learning agent-related backend knowledge (Redis,PostgreSQL) to manage my agent project's memory.
+- 📫 How to reach me: liuyx26@bjtu.edu.cn or 922106840127@njust.edu.cn
+
 
 ## My Stats
 
