@@ -8,8 +8,8 @@ I am Liu YuXiang,an agent-learning junior.
 
 2026-2028 Studying in **BJTU(Beijing Jiaotong University)**,majoring in Software Engineering,chasing the Master degree of Engineering.
 
-- 🔭 I’m currently working on multi-agent working and agent workflows development.
-- 🌱 I’m currently learning agent-related backend knowledge (Redis,PostgreSQL) to manage my agent project's memory.
+- 🔭 I’m currently working on multi-agent system and agent workflow development.
+- 🌱 I’m currently learning agent-related backend knowledge (Redis,PostgreSQL),harness engineering to manage my agent project's memory.
 - 📫 How to reach me: liuyx26@bjtu.edu.cn or 922106840127@njust.edu.cn
 
 
