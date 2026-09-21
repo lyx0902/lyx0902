@@ -1,8 +1,8 @@
-## Hi there 👋
+# Hi there 👋
 
 I am Liu YuXiang,an agent-learning junior.
 
-## Education Background
+# Education Background
 
 2022-2026 Get BEng Degree in **NJUST(Nanjing University of Science and Technology)**,majoring in Computer Science and Technology.
 
@@ -13,7 +13,7 @@ I am Liu YuXiang,an agent-learning junior.
 - 📫 How to reach me: liuyx26@bjtu.edu.cn or 922106840127@njust.edu.cn
 
 
-## My Stats
+# My Stats
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=lyx0902&show_icons=true&theme=buefy&hide_border=true&hide_title=true" alt="lyx0902's github stats"/>
@@ -21,5 +21,5 @@ I am Liu YuXiang,an agent-learning junior.
 </div>
 
 <p align="center">
-    <img src="https://github-profile-repo.vercel.app/?username=lyx0902&theme=gruvbox&no-bg=true&no-frame=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyx0902&theme=github-light&hide_border=true" />
 </p>
