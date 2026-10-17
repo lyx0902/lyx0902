@@ -17,7 +17,6 @@ I am Liu YuXiang,an agent-learning junior.
 
 <div align="center">
   <img src="https://github-stats-extended.vercel.app/api?username=lyx0902&show_icons=true&theme=buefy&hide_border=true&hide_title=true" alt="lyx0902's github stats"/>
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=lyx0902&layout=compact&theme=buefy&hide=html,css&hide_border=true&hide_title=true" alt="Top languages"/>
 </div>
 
 <p align="center">
