@@ -6,10 +6,12 @@ I am Liu YuXiang,an agent-learning junior.
 
 2022-2026 Get BEng Degree in **NJUST(Nanjing University of Science and Technology)**,majoring in Computer Science and Technology.
 
-2026-2028 Studying in **BJTU(Beijing Jiaotong University)**,majoring in Software Engineering,chasing the Master degree of Engineering.
+2026-2028 Studying in **BJTU(Beijing Jiaotong University)**,majoring in Software Engineering,chasing the MEng Degree.
 
-- 🔭 I’m currently working on multi-agent system and agent workflow development.
-- 🌱 I’m currently learning agent-related backend knowledge (Redis,PostgreSQL),harness engineering to manage my agent project's memory.
+- 🔭 I’m currently working on multi-agent system workflow development.
+- 🌼 I’m currently working on the project of <DataScience> at https://github.com/WwhdsOne/achievement-analytics .
+- ⭐ Course Project Needed to be developed:<NetWork Computing & Edge Intelligence> <Deep Learning> <HPC> in this semester...pressure... 
+- 🌱 I’m currently learning agent-related backend tech (Redis,PostgreSQL),harness engineering etc...
 - 📫 How to reach me: liuyx26@bjtu.edu.cn or 922106840127@njust.edu.cn
 
 
