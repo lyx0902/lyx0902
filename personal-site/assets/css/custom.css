@@ -249,7 +249,7 @@ body.theme-luka .lightbox-caption { position: absolute; bottom: 28px; left: 50%;
 body.theme-luka .image.avatar img { top: 0; left: 0; width: 100%; height: 100%; object-fit: cover; }
 body.theme-luka .demo-note { margin: 24px auto 0; padding: 13px 16px; max-width: 238px; border: 1px dashed var(--luka-border); border-radius: 12px; color: var(--luka-secondary); font-size: 12px; line-height: 1.8; }
 body.theme-luka .demo-note strong { color: var(--luka-text); display: block; font-size: 13px; }
-body.theme-luka .sidebar-motto { margin-top: 24px; }
+body.theme-luka .sidebar-motto { margin-top: 24px; max-width: 100%; text-align: center; }
 body.theme-luka .section-body p { margin-top: 0; }
 body.theme-luka .edu-main { flex: 1; }
 body.theme-luka .proj-desc details { margin-top: 10px; }
