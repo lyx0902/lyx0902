@@ -311,3 +311,20 @@ body.theme-luka a.proj-thumb:focus-visible { outline: 2px solid var(--luka-accen
 /* Personal profile and GitHub mark. */
 body.theme-luka .social-icons .icon-github { fill: currentColor; stroke: none; }
 body.theme-luka .image.avatar img { object-position: center 62%; }
+
+/* Project detail disclosure */
+body.theme-luka .proj-card { flex-direction: column; align-items: stretch; }
+body.theme-luka .proj-overview { display: flex; align-items: center; min-width: 0; }
+body.theme-luka .proj-details { border-top: 1px solid var(--luka-footer-border); }
+body.theme-luka .proj-details summary { display: flex; align-items: center; justify-content: space-between; padding: 12px 22px; color: var(--luka-text); font-size: 14px; font-weight: 600; cursor: pointer; list-style: none; }
+body.theme-luka .proj-details summary::-webkit-details-marker { display: none; }
+body.theme-luka .proj-details summary::after { content: '▾'; transition: transform var(--luka-motion-fast) ease; }
+body.theme-luka .proj-details[open] summary::after { transform: rotate(180deg); }
+body.theme-luka .proj-details summary:focus-visible { outline: 2px solid var(--luka-accent); outline-offset: -3px; }
+body.theme-luka .proj-details-content { padding: 4px 22px 22px; color: var(--luka-secondary); font-size: 14px; line-height: 1.8; overflow-wrap: anywhere; }
+body.theme-luka .proj-details-content h3 { margin: 0 0 8px; color: var(--luka-text); font-size: 15px; }
+body.theme-luka .proj-details-stack { margin: 0 0 16px; }
+body.theme-luka .proj-detail-item { margin-top: 16px; }
+body.theme-luka .proj-detail-item h4 { margin: 0 0 4px; color: var(--luka-text); font-size: 14px; }
+body.theme-luka .proj-detail-item p { margin: 0; }
+@media (max-width: 640px) { body.theme-luka .proj-overview { flex-direction: column; align-items: stretch; } }
