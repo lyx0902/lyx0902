@@ -15,4 +15,5 @@ I am Liu YuXiang,an agent-learning junior.
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lyx0902&theme=github-light&hide_border=true" />
+  [![GitHub Roast 评分卡](https://ghfind.com/api/card/mini/lyx0902?variant=radar&theme=dark&lang=zh)](https://ghfind.com/u/lyx0902?ref=badge)
 </div>
